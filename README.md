@@ -16,7 +16,7 @@ This project analyzes employee attrition and workforce data using Power BI.
 - Smart Narrative insights
 
 ## 📊 Dashboard Preview
-(Add images here)
+
 
 ## 🎯 Outcome
 Helps HR teams understand why employees leave and improve retention strategies.
