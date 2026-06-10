@@ -5,6 +5,9 @@ This project analyzes employee workforce data and attrition trends using Power B
 
 The dashboard provides interactive visualizations, department-wise analysis, AI insights, and predictive analytics to help organizations understand employee behavior and improve retention strategies.
 
+## Dashboard Preview
+
+![HR Dashboard](Hr_dashboard_image.png)
 ---
 
 # Objectives
